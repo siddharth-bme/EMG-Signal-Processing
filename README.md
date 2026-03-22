@@ -25,5 +25,5 @@ decoding motor intent from muscle signals to drive assistive devices.
 It forms the foundation of my MSc dissertation on EMG-controlled FES.
 
 ## Author
-[Your Name] — MSc Biomedical Engineering, University of Glasgow
-[Your LinkedIn URL]
+siddharth metelu — MSc Biomedical Engineering, University of Glasgow
+https://www.linkedin.com/in/siddharth-metelu-2b71571a4/
